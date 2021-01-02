@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462583625898",
+    "project_id": "project-gandalf-63223",
+    "storage_bucket": "project-gandalf-63223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462583625898:android:1dca331cd8ad8b1f8778d3",
+        "android_client_info": {
+          "package_name": "com.ahmadshaikh.project_gandalf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462583625898-rjk6biof8ksdj1lucclfs6g006ihg5ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRxGCxIx5vc5PKtegMd1nuc2QA_B3RsnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462583625898-rjk6biof8ksdj1lucclfs6g006ihg5ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
